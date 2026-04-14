@@ -1,4 +1,4 @@
-# Sedaiia
+# Studio Sedaiia
 
 Boutique web studio for aesthetic and creative niches.  
 We build things that look good and work — from landing pages to full-stack products.
